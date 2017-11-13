@@ -6,6 +6,8 @@
 
 Repositório direcionado para centralizar arquivos e documentos voltados  a identidade visual do canal hhbr.
 
+Não é permitido o usdo inadequado da marca.
+
 # Detalhes
     
 - Cores 
