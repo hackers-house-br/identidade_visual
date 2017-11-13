@@ -8,16 +8,16 @@ Repositório direcionado para centralizar arquivos e documentos voltados  a iden
 
 # Detalhes
     
-    - Cores 
-        - Amarelo 
-            - #FFEC00
-        - Preto
-            - #161515
-    - Font
-        - hhbr
-            - Roboto Condensed
-        - Slogan
-            - Roboto Condensed
+- Cores 
+    - Amarelo 
+        - #FFEC00
+    - Preto
+        - #161515
+- Font
+    - hhbr
+        - Roboto Condensed
+    - Slogan
+        - Roboto Condensed
 
 ## [Horizontal](/img/logo_horizontal)
 
