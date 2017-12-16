@@ -6,7 +6,7 @@
 
 Repositório direcionado para centralizar arquivos e documentos voltados  a identidade visual do canal hhbr.
 
-Não é permitido o usdo inadequado da marca.
+Não é permitido o uso inadequado da marca.
 
 # Detalhes
     
@@ -35,7 +35,7 @@ PNG Transparente
 
 <img src='img/logo_horizontal/logo_horizontal_hhbr_transparente.png' style='margin: 0 auto;' alt='logo hhbr'>
 
-## [Vertival](/img/logo_vertical)
+## [Vertical](/img/logo_vertical)
 
 JPG
 
