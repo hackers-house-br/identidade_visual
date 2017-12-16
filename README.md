@@ -56,7 +56,12 @@ PNG
 <img src='img/logo_cerebro_hhbr.png' style='margin: 0 auto;' alt='logo hhbr'>
 
 # Formas Para Contato
- - Site: [http://hhbr.net.br](http://hhbr.net.br)
- - Canal Youtube: [hhbr](https://youtube.com/hhbrtech)
- - E-mail: hackershousebr@gmail.com
- - Twitter: [@hackershousebr](twitter.com/hackershousebr)
+
+- Site: [http://hhbr.net.br](http://hhbr.net.br)
+- Canal Youtube: [hhbr](https://youtube.com/hhbrtech)
+- E-mail: hackershousebr@gmail.com
+- Twitter: [@hackershousebr](twitter.com/hackershousebr)
+
+# Licença
+
+Está sobe a [licença BSD-3-Clause](LICENSE)
